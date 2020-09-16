@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QzAfVZqv7g3O9zITst9+3x7VrlxNY93Qaf+z4/ZdSDOvTO4vhihTgiVhjFqhO9FM9UI2Lxnr4IMa48Hvufw+ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\learnings-master\\Dockersampleconfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
